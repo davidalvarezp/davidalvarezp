@@ -31,8 +31,10 @@ Monitoring | Backup Solutions | Security Hardening
 ### Featured Projects
 
 **[DevByDAP](https://dev.davidalvarezp.com)**
-Web development portfolio and services
+Spanish-language blog for cybersecurity, sysadmin, and webdev, built with Hugo.
+```
 Custom Solutions | Performance Optimization | Modern Stack
+```
 
 **[ParticleTheme](https://github.com/davidalvarezp/animated-dots-theme-toggle)**
 Minimal website template with animated floating dots and auto theme switching
