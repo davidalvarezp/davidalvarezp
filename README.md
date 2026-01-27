@@ -43,9 +43,9 @@
 
 ## Selected Work
 
-- **[davidalvarezp.com](https://davidalvarezp.com)**  
+- **davidalvarezp**  
   Technical blog & personal site  
-  Minimal infra · performance focused
+  → [davidalvarezp.com](https://davidalvarezp.com)
 
 - **SysAdmin & CyberSec Docs**  
   Technical documentation on hardening, infrastructure and security  
