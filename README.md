@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Focus
+## Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux" />
@@ -28,7 +28,7 @@
 
 ---
 
-## ⚙️ Stack
+## Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000?logo=linux&style=for-the-badge" />
@@ -41,13 +41,13 @@
 
 ---
 
-## 📚 Selected Work
+## Selected Work
 
-- **🌐 [davidalvarezp.com](https://davidalvarezp.com)**  
+- **[davidalvarezp.com](https://davidalvarezp.com)**  
   Technical blog & personal site  
   Minimal infra · performance focused
 
-- **📖 SysAdmin & CyberSec Docs**  
+- **SysAdmin & CyberSec Docs**  
   Technical documentation on hardening, infrastructure and security  
   → [docs.davidalvarezp.com](https://docs.davidalvarezp.com)
 
