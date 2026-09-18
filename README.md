@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://davidalvarezp.com">Website</a> ·
-  <a href="https://docs.davidalvarezp.com">Docs</a> ·
   <a href="https://linkedin.com/in/davidalvarezp">LinkedIn</a>
 </p>
 
